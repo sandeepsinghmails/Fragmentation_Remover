@@ -5,9 +5,9 @@ This program can be used to efficiently remove Memory Fragmentation from an Arra
 
 Consider this Array:
 
-+++++++++++++++++++++++++
-+ 1 | 2 | 3 | 2 | 3 | 1 +
-+++++++++++++++++++++++++
+
+| 1 | 2 | 3 | 2 | 3 | 1 |
+
 
 On deleting entries containing 3, vacancies will be created.
 
