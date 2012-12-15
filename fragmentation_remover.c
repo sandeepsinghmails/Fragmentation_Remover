@@ -16,7 +16,7 @@
  * GNU General Public License for more details.
 
  * You should have received a copy of the GNU General Public License
- * along with Volume Controller. If not, see <http://www.gnu.org/licenses/>.
+ * along with Fragmentation Remover. If not, see <http://www.gnu.org/licenses/>.
  *
  * To Compile:
  * $ gcc -o fragmentation_remover -ansi -Wall -pedantic fragmentation_remover.c
